@@ -1,0 +1,10 @@
+The current folder contains the documentation and the matlab code for the master thesis on Cooperative Localization.
+The Matlab scripts are categorised as follows:
+
+1) Data . It generates data for the connectivity model based on the mobility model and the range model
+
+2) savic. It yields the probabilities with respect to the connectivity model proposed by savic and zazo.
+
+3) connection. The scipt generates the connectivity status with resepct to the proposed Markovian model.
+
+4) factorize. The script corresponds to the calibration strategy. 
