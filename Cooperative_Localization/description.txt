@@ -8,3 +8,7 @@ The Matlab scripts are categorised as follows:
 3) connection. The scipt generates the connectivity status with resepct to the proposed Markovian model.
 
 4) factorize. The script corresponds to the calibration strategy. 
+
+5) Thesis.pdf. The file contains the report of my master thesis. 
+
+6) Algorithm. The script contains the full simulation developed during my thesis. On top of the framework an existing localization algorithm is implemented in order to obtain a visual inspection upon the overall behavior of the system. This work took place after the termination of my thesis, hence no documentation is provided. The interested reader can find more information about the algorithm via the following link: http://vbn.aau.dk/files/63590552/PedersenPedersenFleury_AVariationalMessagePassingAlgorithmForSensorSelfLocalizationInWirelessNetworks.pdfNote: The script introduces an extension of the algorithm to the dynamic case, while the paper refers to the static case scenario. 
