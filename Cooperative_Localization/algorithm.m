@@ -223,5 +223,5 @@ end
      close    
 %     F=getframe(gcf);
  end
-hold off
+%hold off
 % close(writerObj); % Saves the movie.
